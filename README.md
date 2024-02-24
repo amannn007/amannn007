@@ -1,4 +1,4 @@
-![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20231110115359/Roadmap-to-Mern-stack-developer-copy-(3).webp)
+![MasterHead](https://www.infomazeelite.com/wp-content/uploads/2022/12/MERN-Stack-Development.png)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <!-- <img align="right" alt="Coding" widht="40" height="30" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
