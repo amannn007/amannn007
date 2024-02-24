@@ -1,7 +1,7 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20231110115359/Roadmap-to-Mern-stack-developer-copy-(3).webp)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20231110115359/Roadmap-to-Mern-stack-developer-copy-(3).webp)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="Coding" widht="50" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" widht="10" height="20" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amannn007&label=Profile%20views&color=0e75b6&style=flat" alt="amannn007" /> </p>
 
